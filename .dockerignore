@@ -1,0 +1,6 @@
+.git
+__pycache__
+*.pyc
+.env
+*.session-journal
+amazon_bot_profile_forwarder_eg/
